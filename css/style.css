@@ -241,8 +241,8 @@
 .counter::after {
   content: "+" !important;
   display: inline-block !important;
-  font-size: 0.8em;
-  margin-left: 6px;
+  font-size: 1em;
+  /* margin-left: 6px; */
   vertical-align: super;
   color: inherit;
 }
