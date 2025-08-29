@@ -234,6 +234,18 @@
     left: 0;
 }
 
+.counter {
+  display: inline-block; /* ensure pseudo-element shows */
+  position: relative;
+}
+.counter::after {
+  content: "+" !important;
+  display: inline-block !important;
+  font-size: 0.8em;
+  margin-left: 6px;
+  vertical-align: super;
+  color: inherit;
+}
 
 
 /*** Img Border ***/
