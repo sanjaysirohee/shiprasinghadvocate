@@ -235,16 +235,15 @@
 }
 
 .counter {
-  display: inline-block; /* ensure pseudo-element shows */
-  position: relative;
+  display: inline-block;  /* ensure pseudo-element shows */
+ position: relative;
 }
 .counter::after {
-  content: "+" !important;
-  display: inline-block !important;
-  font-size: 1em;
-  /* margin-left: 6px; */
-  vertical-align: super;
-  color: inherit;
+    content: "+" !important;
+    display: inline-block !important;
+    font-size: 1em;
+    margin-left: 6px;
+    color: inherit;
 }
 
 
