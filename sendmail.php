@@ -14,9 +14,7 @@ try {
     $email = $_POST['email'] ?? '';
     $message = $_POST['message'] ?? '';
     $subject = $_POST['subject'] ?? '';
-echo "<pre>";
-print_r($_POST);
-echo "</pre>";
+
     // SMTP settings
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
@@ -27,7 +25,8 @@ echo "</pre>";
     $mail->Port = 465;
 
     // Sender (always the lawyer’s email)
-    $mail->setFrom('patel.ragini9315516129@gmail.com', 'Lawyer Website'); 
+   $mail->setFrom('patel.ragini9315516129@gmail.com', 'Lawyer Website Contact Form');
+
 
     // Add Reply-To only if client email is valid
     if (!empty($email) && filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -35,7 +34,7 @@ echo "</pre>";
     }
 
     // Recipient
-    $mail->addAddress('ragini9315516129@gmail.com', 'Lawyer');
+    $mail->addAddress('patel.ragini9315516129@gmail.com', 'Lawyer');
 
     // Email content
     $mail->isHTML(true);
