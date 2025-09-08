@@ -17,15 +17,15 @@ try {
 
     // SMTP settings
     $mail->isSMTP();
-    $mail->Host = 'smtp.gmail.com';
+    $mail->Host = 'mail.shiprasinghadvocate.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'patel.ragini9315516129@gmail.com'; // Lawyer's Gmail
-    $mail->Password = 'hzssteldmxzgmffa'; // Gmail App Password
-    $mail->SMTPSecure = 'ssl';
-    $mail->Port = 465;
+    $mail->Username = 'contact@shiprasinghadvocate.com'; // Lawyer's mail
+    $mail->Password = 'india@P121';
+    $mail->SMTPSecure = 'tls';
+    $mail->Port = 587;
 
     // Sender (always the lawyer’s email)
-   $mail->setFrom('patel.ragini9315516129@gmail.com', 'Lawyer Website Contact Form');
+   $mail->setFrom('contact@shiprasinghadvocate.com', 'Lawyer Website Contact Form');
 
 
     // Add Reply-To only if client email is valid
@@ -34,7 +34,7 @@ try {
     }
 
     // Recipient
-    $mail->addAddress('patel.ragini9315516129@gmail.com', 'Lawyer');
+    $mail->addAddress('contact@shiprasinghadvocate.com', 'Lawyer');
 
     // Email content
     $mail->isHTML(true);
