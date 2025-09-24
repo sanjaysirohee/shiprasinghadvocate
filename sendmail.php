@@ -42,9 +42,9 @@ try {
     $mail->Body    = "You got a message from <b>{$name}</b> ({$email}):<br><br>" . nl2br($message);
 
     $mail->send();
-    echo "<script>alert('✅ Message has been sent successfully!'); window.location.href='enquiry.html';</script>";
+    echo "<script>alert('✅ Message has been sent successfully!'); window.location.href='enquiry';</script>";
 
 } catch (Exception $e) {
     // Show error alert
-    echo "<script>alert('❌ Message could not be sent. Error: {$mail->ErrorInfo}'); window.location.href='enquiry.html';</script>";
+    echo "<script>alert('❌ Message could not be sent. Error: {$mail->ErrorInfo}'); window.location.href='enquiry';</script>";
 }

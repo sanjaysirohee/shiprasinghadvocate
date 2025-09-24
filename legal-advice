@@ -56,7 +56,7 @@
     <link href="css/style.css?v=1" rel="stylesheet" />
   </head>
 
-<body>
+  <body>
     <!-- Spinner Start -->
     <div
       id="spinner"
@@ -71,17 +71,15 @@
     </div>
     <!-- Spinner End -->
 
-
     <!-- Topbar Start -->
-   
-    <!-- Topbar End -->
 
+    <!-- Topbar End -->
 
     <!-- Brand & Contact Start -->
     <div class="container-fluid py-2 px-5 wow fadeIn" data-wow-delay="0.1s">
       <div class="row align-items-center top-bar">
         <div class="col-lg-4 col-md-12 text-center text-lg-start">
-          <a href="index.html" class="navbar-brand m-0 p-0">
+          <a href="index" class="navbar-brand m-0 p-0">
             <h1 class="fw-bold text-primary m-0">
               <img src="img/innerlogo2.png" alt="logo" style="width: 55%" />
             </h1>
@@ -129,28 +127,38 @@
     </div>
     <!-- Brand & Contact End -->
 
-
     <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-primary navbar-dark sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-        <a href="#" class="navbar-brand ms-3 d-lg-none">MENU</a>
-        <button type="button" class="navbar-toggler me-3" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav me-auto p-3 p-lg-0">
-                <a href="index.html" class="nav-item nav-link">Home</a>
-                <a href="profile.html" class="nav-item nav-link">Profile</a>
-                <a href="area-of-practices.html" class="nav-item nav-link">Area Of Practices</a>
-                <a href="what-we-do.html" class="nav-item nav-link">What We Do</a>
-                <a href="marriage-registration.html" class="nav-item nav-link">Marriage Registration</a>
-                
-                <a href="legal-advice.html" class="nav-item nav-link">Legal Advice</a>
-                <a href="legal-news.html" class="nav-item nav-link">Legal News</a>
-                <a href="enquiry.html" class="nav-item nav-link">Enquiry</a>
-                <a href="contact.html" class="nav-item nav-link">Contact Us</a>
-            </div>
+    <nav
+      class="navbar navbar-expand-lg bg-primary navbar-dark sticky-top py-lg-0 px-lg-5 wow fadeIn"
+      data-wow-delay="0.1s"
+    >
+      <a href="#" class="navbar-brand ms-3 d-lg-none">MENU</a>
+      <button
+        type="button"
+        class="navbar-toggler me-3"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarCollapse"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav me-auto p-3 p-lg-0">
+          <a href="index" class="nav-item nav-link">Home</a>
+          <a href="profile" class="nav-item nav-link">Profile</a>
+          <a href="area-of-practices" class="nav-item nav-link"
+            >Area Of Practices</a
+          >
+          <a href="what-we-do" class="nav-item nav-link">What We Do</a>
+          <a href="marriage-registration" class="nav-item nav-link"
+            >Marriage Registration</a
+          >
           
+          <a href="legal-advice" class="nav-item nav-link">Legal Advice</a>
+          <a href="legal-news" class="nav-item nav-link">Legal News</a>
+          <a href="enquiry" class="nav-item nav-link">Enquiry</a>
+          <a href="contact" class="nav-item nav-link">Contact Us</a>
         </div>
+      </div>
     </nav>
     <!-- Navbar End -->
 
@@ -158,189 +166,71 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
-            <h1 class="display-4 text-white animated slideInDown mb-3">Marriage Registration Services</h1>
+            <h1 class="display-4 text-white animated slideInDown mb-3">Legal Advice</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a class="text-white" href="index.html">Home</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">Marriage Registration</li>
+                    <li class="breadcrumb-item"><a class="text-white" href="index">Home</a></li>
+                    <li class="breadcrumb-item text-primary active" aria-current="page">Legal Advice</li>
                 </ol>
             </nav>
         </div>
     </div>
     <!-- Page Header End -->
 
-
-    <!-- Marriage head Start -->
+<!-- legal advice head Start -->
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center ">
-                <div class="col-lg-8">
-                    <h1 class="display-1"></h1>
-                    <h1 class="mb-4"><strong>Marriage Registration</strong></h1>
-                    <p>On October 25, 2007, the Supreme Court of India ruled that all marriages must be registered without any exception for any religion. The court directed all states and union territories to enact legislation within three months to make registration of all marriages compulsory.</p>
-                </div>
-                <p class="mb-5 mt-0"><strong>Legal Recognition:</strong> Provides a government-issued document (marriage certificate) that validates your marriage and grants you legal rights and benefits associated with being a married couple.</p>
-            </div>
-        </div>
-    </div>
-    <!-- Marriage head End -->
+  <div class="container text-center">
+    <div class="row justify-content-center">
+      
+      <!-- Heading -->
+      <h1 class="mb-4"><strong>Legal Advice</strong></h1>
+      <h3 class="mb-4">Get Trusted Legal Guidance – Fast and Reliable</h3>
+      
+      <!-- Main Content -->
+      <div class="col-lg-8">
+        <ul class="text-start mb-4">
+          <li><strong>Are you dealing with a family dispute?</strong></li>
+          <li><strong>Planning to register a new company?</strong></li>
+          <li><strong>Caught in a property issue?</strong></li>
+          <li><strong>Need help with contract drafting?</strong></li>
+          <li><strong>Charged in a criminal matter?</strong></li>
+        </ul>
 
-    <!--Who Needs start-->
-    
-    <div class="text-center mb-10">
-    <h6 class="section-title bg-white text-primary px-3">Information</h6>
-    <h1 class="display-10">Marriage can be solemnized in the following manner</h1>
-  </div>
-    <div class="row g-4 mb-5 m-2">
-
-  <div class="col-md-4">
-    <div class="fact-item bg-light rounded text-center h-100 p-4">
-      <div class="mb-3">
-        <img src="img/marriage1.png" class="img-fluid" style="width:100px; height:100px;" alt="Hindu Marriage Icon"/>
+        <p class="mt-0 mb-2">
+          In these situations, having the right lawyer can make all the difference. Legal matters can feel overwhelming, but the right legal advice helps you understand your options, protect your rights, and move forward with confidence.
+        </p>
+        <p class="mt-0 mb-2">
+          At <strong>Advocate, Shipra Singh</strong>, we connect you with experienced lawyers who specialize in different areas of law. Whether it’s a personal matter or a business issue, our team ensures you get practical solutions tailored to your case.
+        </p>
+        <p class="mt-0 mb-5">
+          Remember, no lawyer can promise a guaranteed win. But choosing a skilled advocate with relevant expertise gives you the strongest chance at a positive outcome and the peace of mind that your matter is in safe hands.
+        </p>
       </div>
-      <h5 class="mb-2 text-primary">Hindu Marriage</h5>
-    </div>
-  </div>
 
-  <div class="col-md-4">
-    <div class="fact-item bg-light rounded text-center h-100 p-4">
-      <div class="mb-3">
-        <img src="img/marriage3.png" class="img-fluid" style="width:80px; height:100px;"/> 
+      <!-- Why Choose Us -->
+      <div class="col-lg-8">
+        <h1 class="mb-4"><strong>Why Choose Us?</strong></h1>
+        <ul class="text-start mb-3">
+          <li>Free initial advice for your queries</li>
+          <li>Quick response within hours</li>
+          <li>Lawyers specializing in multiple fields (Civil, Criminal, Corporate, Family, Property, etc.)</li>
+          <li>Guidance in simple language without legal jargon</li>
+        </ul>
+        <p>
+          For reliable advice and representation, trust <strong>Advocate, Shipra Singh</strong> – your partner in navigating legal challenges smoothly and confidently.
+        </p>
       </div>
-      <h5 class="mb-2 text-primary">Muslim Marriage</h5>
+
     </div>
   </div>
-
-  <div class="col-md-4">
-    <div class="fact-item bg-light rounded text-center h-100 p-4">
-      <div class="mb-3">
-        <img src="img/marriage4.png" class="img-fluid" style="width:100px; height:100px;"/> 
-      </div>
-      <h5 class="mb-2 text-primary">Christian Marriage</h5>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="fact-item bg-light rounded text-center h-100 p-4">
-      <div class="mb-2">
-        <img src="img/marriage5.png" class="img-fluid" style="width:100px; height:100px;"/> 
-      </div>
-      <h5 class="mb-2 text-primary">Inter Caste Marriage</h5>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="fact-item bg-light rounded text-center h-100 p-4">
-      <div class="mb-3">
-        <img src="img/marriage6.png" class="img-fluid" style="width:100px; height:100px;"/> 
-      </div>
-      <h5 class="mb-2 text-primary">Foreigner Marriage</h5>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="fact-item bg-light rounded text-center h-100 p-4">
-      <div class="mb-3">
-        <img src="img/marriage7.png" class="img-fluid" style="width:100px; height:100px;"/> 
-      </div>
-      <h5 class="mb-2 text-primary">NRI Marriage</h5>
-    </div>
-  </div>
-
 </div>
-    <!--Who Needs End-->
-    <!--Marriage acts start-->
-      <div class="container-xxl py-3 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center ">
-                <div class="col-lg-8">
-                    <p class="mb-4"><strong>The Hindu Marriage Act, 1955 :</strong>  When marriage is already solemnized where Husband and Wife are Hindus, Buddhists, Jain or Sikhs or when they are converted into any of these religions, they will be considered under these registration Act.</p>
-                </div>
-                <p class="mt-0"><strong>The Special Marriage Act, 1954 : </strong>  Whereas, this act lay down the procedure for both solemnization and registration of marriage certificate where either of the party or both are not Hindus, Buddhists, Jain or Sikhs.</p>
-            </div>
-        </div>
-    </div>
-    <!--Marriage Acts end-->
-    <!--Document Required starts-->
-            <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center">
-            <div class="col-lg-8 text-start">
-                <h2 class="mb-4 text-center">DOCUMENTS REQUIRED FOR MARRIAGE REGISTRATION</h2>
 
-                <p class="mb-3">1. Passport Size photos of Husband & Wife (5 photos each).</p>
-                <p class="mb-3">2. Aadhar Card and/or Voter Card of Husband and Wife.</p>
-                <p class="mb-3">3. Address Proof of Bride and Groom – Voter Card / Driving License / Passport / Bank Passbook with photograph (any one proof required).</p>
-                <p class="mb-3">4. Marriage Invitation Card or Marriage Document of Gurudwara or Arya Samaj Temple.</p>
-                <p class="mb-3">5. Age Proof of Husband and Wife – Birth Proof / 10th Pass Document / Driving License / Passport (any one proof required).</p>
-                <p class="mb-3">6. 2 Witnesses with Aadhar Card.</p>
-                <p class="mb-3">7. Divorce Decree in case of any or both Bride and Groom are divorcee.</p>
-                <p class="mb-3">8. 2 Marriage photographs of Husband and Wife.</p>
-            </div>
-            </div>
-        </div>
-        </div>
-    <!--Document Required ends-->
-<!--Eligibility starts-->
-        <div class="container-xxl py-3 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center">
-            <div class="col-lg-8 text-start">
-                <h2 class="mb-4 text-center">ELIGILIBITY CRITERIA  FOR MARRIAGE REGISTRATION UNDER HINDU MARRIAGE ACT</h2>
-
-                <p class="mb-3">1. Both the parties should belong to Hindu, Buddhist, Sikh or Jain religions.</p>
-                <p class="mb-3">2. Neither party should have a spouse living at the time of marriage.</p>
-                <p class="mb-3">3. Address Proof of Bride and Groom – Voter Card / Driving License / Passport / Bank Passbook with photograph (any one proof required).</p>
-                <p class="mb-3">4. Both the parties should be of sound mind, capable of giving valid consent, fit for marriage and procreation of a child.</p>
-                <p class="mb-3">5. Male should have completed the age of 21 years and female should have completed the age of 18 years at the time of marriage.</p>
-                <p class="mb-3">6. Parties should not be sapindas of each other, unless the custom or usage governing each of them permits of a marriage between the two.</p>
-                <p class="mb-3">7. Parties should not be sapindas of each other, unless the custom or usage governing each of them permits of a marriage between the two</p>
-            </div>
-            </div>
-        </div>
-        </div>
-<!--Eligibility ends-->
-<!--Benefits start-->
-<div class="container-xxl py-3 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center">
-            <div class="col-lg-8 text-start">
-                <h2 class="mb-4 text-center">Benefits of Marriage Registration</h2>
-
-                <ul>
-        <li>Legal Security: Provides a strong legal foundation for your marriage, protecting your rights in areas like inheritance, property ownership, and succession.</li>
-        <li>Simplified Processes: A registered marriage certificate simplifies future legal processes that require proof of marriage, such as applying for visas or loans together.</li>
-        <li>Dispute Resolution: In case of disagreements or disputes, a registered marriage offers stronger legal standing.</li>
-      </ul>
-            </div>
-            </div>
-        </div>
-        </div>
-
-    <!--Benefits end-->
-    <!--Notes Start-->
-    <div class="container-xxl py-3 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center">
-            <div class="col-lg-8 text-start">
-                <h2 class="text-center"> </h2>
-
-                <p class="mb-2"><strong> Same-sex marriage is not currently legal in India.</strong></p>
-                <p class="mb-2"><strong>Marriage registration is separate from court marriage, which is a formal ceremony establishing a legal marriage.</strong></p>
-
-      </ul>
-            </div>
-            </div>
-        </div>
-        </div>
-    <!--Notes Ends-->
-    <!--Call now start-->
-    
-    <!--Call now end-->
+    <!-- legal advice head End -->
+     <!--Call us start-->
 <div class="container-fluid py-5 bg-light">
   <div class="text-center mx-auto wow fadeInUp" style="max-width: 800px;">
     <h2 class="mb-4">
-      FREE ADVICE<br />
+      We Provide You The Best Services Across All Legal Sectors.<br />
       <span class="text-primary">Don’t be hesitant, we are just one call away.</span>
     </h2>
 
@@ -359,7 +249,7 @@
     </div>
   </div>
 </div>
-
+<!--Call us ends-->
     <!-- Footer Start -->
     <div
       class="container-fluid bg-dark text-body footer mt-5 pt-5 wow fadeIn"
@@ -402,21 +292,21 @@
   <div class="d-flex justify-content-center">
     <!-- Left column -->
     <div class="me-4">
-      <a href="index.html" class="btn btn-link">Home</a>
-      <a href="profile.html" class="btn btn-link">Profile</a>
-      <a href="area-of-practices.html" class="btn btn-link">Area Of Practices</a>
-      <a href="what-we-do.html" class="btn btn-link">What We Do</a>
-      <a href="marriage-registration.html" class="btn btn-link">Marriage Registration</a>
+      <a href="index" class="btn btn-link">Home</a>
+      <a href="profile" class="btn btn-link">Profile</a>
+      <a href="area-of-practices" class="btn btn-link">Area Of Practices</a>
+      <a href="what-we-do" class="btn btn-link">What We Do</a>
+      <a href="marriage-registration" class="btn btn-link">Marriage Registration</a>
     </div>
 
     <!-- Right column -->
     <div>
       
-      <a href="legal-advice.html" class="btn btn-link">Legal Advice</a>
-      <a href="legal-news.html" class="btn btn-link">Legal News</a>
+      <a href="legal-advice" class="btn btn-link">Legal Advice</a>
+      <a href="legal-news" class="btn btn-link">Legal News</a>
       
-      <a href="enquiry.html" class="btn btn-link">Enquiry</a>
-      <a href="contact.html" class="btn btn-link">Contact Us</a>
+      <a href="enquiry" class="btn btn-link">Enquiry</a>
+      <a href="contact" class="btn btn-link">Contact Us</a>
     </div>
   </div>
 </div>

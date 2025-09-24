@@ -79,7 +79,7 @@
     <div class="container-fluid py-2 px-5 wow fadeIn" data-wow-delay="0.1s">
       <div class="row align-items-center top-bar">
         <div class="col-lg-4 col-md-12 text-center text-lg-start">
-          <a href="index.html" class="navbar-brand m-0 p-0">
+          <a href="index" class="navbar-brand m-0 p-0">
             <h1 class="fw-bold text-primary m-0">
               <img src="img/innerlogo2.png" alt="logo" style="width: 55%" />
             </h1>
@@ -143,20 +143,20 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav me-auto p-3 p-lg-0">
-          <a href="index.html" class="nav-item nav-link">Home</a>
-          <a href="profile.html" class="nav-item nav-link">Profile</a>
-          <a href="area-of-practices.html" class="nav-item nav-link"
+          <a href="index" class="nav-item nav-link">Home</a>
+          <a href="profile" class="nav-item nav-link">Profile</a>
+          <a href="area-of-practices" class="nav-item nav-link"
             >Area Of Practices</a
           >
-          <a href="what-we-do.html" class="nav-item nav-link">What We Do</a>
-          <a href="marriage-registration.html" class="nav-item nav-link"
+          <a href="what-we-do" class="nav-item nav-link">What We Do</a>
+          <a href="marriage-registration" class="nav-item nav-link"
             >Marriage Registration</a
           >
           
-          <a href="legal-advice.html" class="nav-item nav-link">Legal Advice</a>
-          <a href="legal-news.html" class="nav-item nav-link">Legal News</a>
-          <a href="enquiry.html" class="nav-item nav-link">Enquiry</a>
-          <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+          <a href="legal-advice" class="nav-item nav-link">Legal Advice</a>
+          <a href="legal-news" class="nav-item nav-link">Legal News</a>
+          <a href="enquiry" class="nav-item nav-link">Enquiry</a>
+          <a href="contact" class="nav-item nav-link">Contact Us</a>
         </div>
       </div>
     </nav>
@@ -172,7 +172,7 @@
         <nav aria-label="breadcrumb animated slideInDown">
           <ol class="breadcrumb justify-content-center mb-0">
             <li class="breadcrumb-item">
-              <a class="text-white" href="index.html">Home</a>
+              <a class="text-white" href="index">Home</a>
             </li>
             <li class="breadcrumb-item text-primary active" aria-current="page">
               Legal News
@@ -212,7 +212,7 @@
                 </h6>
                 <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="what-to-do-if-you-receive-a-legal-notice.html"
+                href="what-to-do-if-you-receive-a-legal-notice"
                 >Read More</a>
             </div>
           </div>
@@ -232,7 +232,7 @@
                 </h6>
                 <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="how-to-prepare-before-meeting-a-lawyer.html"
+                href="how-to-prepare-before-meeting-a-lawyer"
                 >Read More</a>
             </div>
           </div>
@@ -252,7 +252,7 @@
                 </h6>
                 <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="why-making-a-will-is-important.html"
+                href="why-making-a-will-is-important"
                 >Read More</a>
             </div>
           </div>
@@ -272,7 +272,7 @@
                 </h6>
              <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="when-should-you-consider-mediation-instead-of-going-to-court.html"
+                href="when-should-you-consider-mediation-instead-of-going-to-court"
                 >Read More</a>
             </div>
           </div>
@@ -292,7 +292,7 @@
                 </h6>
               <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="understanding-property-disputes-in-simple-words.html"
+                href="understanding-property-disputes-in-simple-words"
                 >Read More</a>
             </div>
           </div>
@@ -312,7 +312,7 @@
                 </h6>
               <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="understanding-bail-your-rights-after-arrest.html"
+                href="understanding-bail-your-rights-after-arrest"
                 >Read More</a>
             </div>
           </div>
@@ -332,7 +332,7 @@
                 </h6>
               <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="top-law-firms-in-delhi.html"
+                href="top-law-firms-in-delhi"
                 >Read More</a>
             </div>
           </div>
@@ -352,7 +352,7 @@
                 </h6>
               <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="cyber-crime-and-your-rights-how-to-stay-protected-online.html"
+                href="cyber-crime-and-your-rights-how-to-stay-protected-online"
                 >Read More</a>
             </div>
           </div>
@@ -372,7 +372,7 @@
                 </h6>
               <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="importance-of-legal-contracts-in-business.html"
+                href="importance-of-legal-contracts-in-business"
                 >Read More</a>
             </div>
           </div>
@@ -392,7 +392,7 @@
                 </h6>
               <a
                 class="btn btn-primary rounded-pill py-2 px-3"
-                href="importance-of-intellectual-property-rights.html"
+                href="importance-of-intellectual-property-rights"
                 >Read More</a>
             </div>
           </div>
@@ -537,21 +537,21 @@
   <div class="d-flex justify-content-center">
     <!-- Left column -->
     <div class="me-4">
-      <a href="index.html" class="btn btn-link">Home</a>
-      <a href="profile.html" class="btn btn-link">Profile</a>
-      <a href="area-of-practices.html" class="btn btn-link">Area Of Practices</a>
-      <a href="what-we-do.html" class="btn btn-link">What We Do</a>
-      <a href="marriage-registration.html" class="btn btn-link">Marriage Registration</a>
+      <a href="index" class="btn btn-link">Home</a>
+      <a href="profile" class="btn btn-link">Profile</a>
+      <a href="area-of-practices" class="btn btn-link">Area Of Practices</a>
+      <a href="what-we-do" class="btn btn-link">What We Do</a>
+      <a href="marriage-registration" class="btn btn-link">Marriage Registration</a>
     </div>
 
     <!-- Right column -->
     <div>
       
-      <a href="legal-advice.html" class="btn btn-link">Legal Advice</a>
-      <a href="legal-news.html" class="btn btn-link">Legal News</a>
+      <a href="legal-advice" class="btn btn-link">Legal Advice</a>
+      <a href="legal-news" class="btn btn-link">Legal News</a>
       
-      <a href="enquiry.html" class="btn btn-link">Enquiry</a>
-      <a href="contact.html" class="btn btn-link">Contact Us</a>
+      <a href="enquiry" class="btn btn-link">Enquiry</a>
+      <a href="contact" class="btn btn-link">Contact Us</a>
     </div>
   </div>
 </div>
