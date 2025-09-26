@@ -7,7 +7,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f
 
 # Rewrite the URL to append ".html" if both conditions above are true
-RewriteRule ^(.*)$ $1
+RewriteRule ^(.*)$ $1.html
 
 RewriteEngine on  # Activate the rewrite engine
 
